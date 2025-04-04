@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+
 FROM eclipse-temurin:17
 
 LABEL authors="neeha"
